@@ -2,7 +2,7 @@
 
 I'm Aral, a software engineer from Philadelphia, USA.
 
-I'm primarily interested in **full-stack development** and currently work as a software engineer at EQUMAS.
+I'm primarily interested in **full-stack development** and currently work as a software engineer at [**@EQUMAS**](https://www.equmas.com/).
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/aralsen)
